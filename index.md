@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Section
 
-This is a section on the index page. GitHub automatically generates ancho links for these. But can we link back from a child page to such an anchor link?
+This is a section on the index page. GitHub automatically generates anchor links for these. But can we link back from a child page to such an anchor link?
 
 # Some  more filler
 
